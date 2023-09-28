@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169749285501",
+    "project_id": "stage-ai-55472",
+    "storage_bucket": "stage-ai-55472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169749285501:android:436636156a87685d3d7f14",
+        "android_client_info": {
+          "package_name": "com.example.stage_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169749285501-auloo7q92avkpi62h215u32qkm1vchno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSupuMZt2SqyaCYBi4avf0-uQUV4kY0Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169749285501-auloo7q92avkpi62h215u32qkm1vchno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
